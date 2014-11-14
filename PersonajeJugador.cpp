@@ -88,6 +88,7 @@ void PersonajeJugador::logic(Uint8* teclas_presionadas)
             rectangulo.x = 0;
             rectangulo.y = 0;
             cont++;
+            cout<<"Vidas: "<<(5-cont)<<endl;
             break;
         }
 

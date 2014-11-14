@@ -649,3 +649,52 @@
 1415957233 source:/home/darkwavve/Documentos/Progra3/SDLMiniRPG-master/Paladin.cpp
 	"Paladin.h"
 
+1415957075 source:/home/darkwavve/Documentos/Progra3/ExamenLab#1/Enemy.cpp
+	"Enemy.h"
+
+1415878007 /home/darkwavve/Documentos/Progra3/ExamenLab#1/Enemy.h
+	"Personaje.h"
+
+1415957233 /home/darkwavve/Documentos/Progra3/ExamenLab#1/Personaje.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<list>
+
+1415957075 source:/home/darkwavve/Documentos/Progra3/ExamenLab#1/Enemy2.cpp
+	"Enemy2.h"
+
+1415878421 /home/darkwavve/Documentos/Progra3/ExamenLab#1/Enemy2.h
+	"Personaje.h"
+
+1415957047 source:/home/darkwavve/Documentos/Progra3/ExamenLab#1/main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<list>
+	"PersonajeJugador.h"
+	"NPC.h"
+	"Ninja.h"
+	"Paladin.h"
+	"Enemy.h"
+	"Enemy2.h"
+	<stdlib.h>
+
+1415947099 /home/darkwavve/Documentos/Progra3/ExamenLab#1/PersonajeJugador.h
+	"Personaje.h"
+
+1415942661 /home/darkwavve/Documentos/Progra3/ExamenLab#1/NPC.h
+	"Personaje.h"
+
+1415954634 /home/darkwavve/Documentos/Progra3/ExamenLab#1/Ninja.h
+	"Personaje.h"
+
+1415955147 /home/darkwavve/Documentos/Progra3/ExamenLab#1/Paladin.h
+	"Personaje.h"
+
+1415957233 source:/home/darkwavve/Documentos/Progra3/ExamenLab#1/NPC.cpp
+	"NPC.h"
+
+1415950317 source:/home/darkwavve/Documentos/Progra3/ExamenLab#1/Personaje.cpp
+	"Personaje.h"
+
